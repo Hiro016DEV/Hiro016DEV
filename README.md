@@ -1,1 +1,5 @@
-Je me suis mis au JavaSript depuis peu franchement c'est nice
+# Hey !
+## Moi c'est Jules,
+### Je débute dans la programmation
+#### Je pratique pour le moment le Python et le JavaScript.
+
