@@ -4,6 +4,7 @@
 ### 🚹 Moi c'est Jules, je débute dans la programmation, je pratique pour le moment le Python et le Javascript 🚹
 
 # Réseaux 🌍
+  <div class="reseaux" text-align:"center">
    <a href="https://twitter.com/Hirowzzzz">                                               
       <img alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"       
       width="64" height="64">                                                            
@@ -18,6 +19,7 @@
       <img alt="Discord" src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png"       
       width="64" height="64">                                                            
    </a>
+   </div>
 
 # GitHub Stats 📋
 
