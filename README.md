@@ -3,7 +3,7 @@
 # about me 
 ### Jules, 14 years-old living in France and currently learning coding and programming. 
 
-# Réseaux 🌍
+# socials 
    <a href="https://twitter.com/Hirowzzzz">                                               
       <img alt="Twitter" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"       
       width="64" height="64">                                                            
@@ -14,7 +14,7 @@
       width="64" height="64">                                                            
    </a> 
 
-# GitHub Stats 📋
+# GitHub Stats 
 
 [![Hirowzz's stats](https://github-readme-stats.vercel.app/api?username=hirowzz&show_icons=true&theme=tokyonight)](https://github.com/hirowzz/github-readme-stats)
 
