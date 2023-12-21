@@ -1,7 +1,7 @@
 <a src="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0165.gif" border="0" alt="animated-line-image-0165" /></a>
 
 # about me 
-### Jules, 14 years-old living in France and currently learning coding and programming. 
+### Jules, 14 years-old living in France and currently learning computer science and programming languages like C, HTML/CSS or JS. 
 
 # socials 
    <a href="https://twitter.com/Hirowzzzz">                                               
